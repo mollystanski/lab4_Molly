@@ -8,7 +8,7 @@ app.listen(PORT, () => {
 
 
 app.get('/', (req, res) => {
-  res.send('Hello from Node + Express');
+  res.send('Hello from Molly moo');
 });
 
 
